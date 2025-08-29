@@ -1,3 +1,4 @@
+//Program to print palindrome
 public class Palindrome {
     public static boolean isPalindrome(int number) {
         int original = number;
