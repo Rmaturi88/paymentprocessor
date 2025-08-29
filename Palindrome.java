@@ -1,4 +1,4 @@
-public class PalindromeChecker {
+public class Palindrome {
     public static boolean isPalindrome(int number) {
         int original = number;
         int reversed = 0;
