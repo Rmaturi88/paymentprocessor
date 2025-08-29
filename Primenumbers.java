@@ -1,5 +1,5 @@
-import java.util.scanner;
-public static void main(String[] args) {
+import java.util.Scanner;
+//public static void main(String[] args) {
     public class Primenumbers {
         public static boolean isPrime(int number) {
             if (number <= 1) return false;
@@ -18,4 +18,3 @@ public static void main(String[] args) {
             }
         }
     }
-}
