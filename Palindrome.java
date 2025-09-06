@@ -10,7 +10,7 @@ public class Palindrome {
         }
         return original == reversed;
     }
-
+//This is a palindrome program
     public static void main(String[] args) {
         int num = 121; // Example number
         if (isPalindrome(num)) {
